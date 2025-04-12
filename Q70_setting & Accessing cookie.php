@@ -12,5 +12,6 @@
     }
     
     print_r($_COOKIE);
+    echo"<br>";
     echo "This code is executed by vansh thakur!";
 ?>
