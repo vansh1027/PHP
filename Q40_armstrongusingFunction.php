@@ -19,7 +19,7 @@ $flag = armstrongCheck($number);
 if ($flag == 1)
 	echo "Yes";
 else {
-	echo "No";
+	echo "No""<br>";
 	echo "This code is executed by vansh thakur!";
 }
 ?>
