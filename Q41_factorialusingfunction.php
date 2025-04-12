@@ -10,6 +10,6 @@ function factorial($n)
 }  
 $n = 5;  
 echo "Factorial of $n is " .factorial($n);
-echo"<br>"
+echo"<br>";
 echo "This code is executed by vansh thakur!"; 
 ?>  
