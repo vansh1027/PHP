@@ -1,7 +1,7 @@
 <?php
 
     // Setting a cookie
-    setcookie("username", "Kaml0402", time()+30*24*60*60);
+    setcookie("username", "vansh1027", time()+30*24*60*60);
     
     // Verifying whether a cookie is set or not
     if(isset($_COOKIE["username"])){
