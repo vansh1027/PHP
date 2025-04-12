@@ -6,7 +6,7 @@
         echo "Sum of the two numbers is : $sum";
     }
      
-    addFunction(10, 20);"
+    addFunction(10, 20);
     echo"<br>";
      echo "This code is executed by vansh thakur!";
 ?>
