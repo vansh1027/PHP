@@ -20,7 +20,7 @@ if ($flag == 1)
 	echo "Yes";
 else {
 	echo "No";
-        echo"<br>"
+        echo"<br>";
 	echo "This code is executed by vansh thakur!";
 }
 ?>
