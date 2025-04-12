@@ -21,6 +21,6 @@ if ($flag == 1)
 else {
 	echo "No";
         echo"<br>";
-	echo "This code is executed by vansh thakur!";
+	echo "<br>This code is executed by vansh thakur!";
 }
 ?>
