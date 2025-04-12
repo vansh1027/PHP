@@ -17,6 +17,6 @@
     foreach( $numbers as $value )
     {
         echo "Value is $value\n";
-    }
+    }"<br>"
     echo "This code is executed by vansh thakur!";
 ?>
