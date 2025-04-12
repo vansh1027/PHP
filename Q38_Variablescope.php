@@ -7,6 +7,6 @@
      
     test(); 
      
-    echo $greet; 
+    echo $greet"<br>"; 
      echo "This code is executed by vansh thakur!";
 ?>
