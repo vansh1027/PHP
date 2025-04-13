@@ -33,6 +33,6 @@ if (isset($_POST['submit'])) {
     }
 }
 ?>
-<p>This code is executed by Kamal Mittal!</p>
+<p>This code is executed by Vansh Thakur!</p>
 </body>
 </html>
