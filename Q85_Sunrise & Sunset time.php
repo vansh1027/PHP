@@ -13,5 +13,5 @@ $sunset = date("H:i:s", date_sunset($timestamp, SUNFUNCS_RET_TIMESTAMP, $latitud
 echo "Sunrise time: " . $sunrise . "<br>";
 echo "Sunset time: " . $sunset . "<br>";
 
-echo "This code is executed by Kamal Mittal!";
+echo "This code is executed by Vansh Thakur!";
 ?>
