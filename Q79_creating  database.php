@@ -12,7 +12,7 @@
     } 
     
     // Create database
-    $sql = "CREATE DATABASE mydb";
+    $sql = "CREATE DATABASE mydatabase";
     if ($conn->query($sql) === TRUE) {
         echo "Database created successfully";
     } else {
